@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "docEntry": 1,
+        "docNum": 1,
+        "docDate": "1/2/2023",
+        "fromWhs": "SubStore",
+        "toWhs": "H_BAY1",
+        "cardCode": "V00579",
+        "cardName": "PATEL CORPORATION",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 0,
+                "lineNum": 0,
+                "itemCode": "A-008559",
+                "itemName": "SPINDLE ASSLY HARDCHROME",
+                "fromWhs": "SubStore",
+                "toWhs": "H_BAY1",
+                "qty": 1800,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 0,
+                "lineNum": 1,
+                "itemCode": "A-008559",
+                "itemName": "SPINDLE ASSLY HARDCHROME",
+                "fromWhs": "SubStore",
+                "toWhs": "H_BAY1",
+                "qty": 1800,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "docEntry": 2,
+        "docNum": 2,
+        "docDate": "1/2/2023",
+        "fromWhs": "RAP_Str",
+        "toWhs": "SbAsly",
+        "cardCode": "V00058",
+        "cardName": "NAVSHAKTI CORPORATION",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 2,
+                "lineNum": 0,
+                "itemCode": "A-014351",
+                "itemName": "FENDER STAY BLOCK (SMALL) 16 MM THICK",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 14,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 2,
+                "lineNum": 1,
+                "itemCode": "A-014352",
+                "itemName": "FENDER STAY BLOCK (BIG) 16 MM THICK",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 14,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "docEntry": 3,
+        "docNum": 3,
+        "docDate": "1/2/2023",
+        "fromWhs": "RAP_Str",
+        "toWhs": "SbAsly",
+        "cardCode": "V00433",
+        "cardName": "GAYATRI PAINTS",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 3,
+                "lineNum": 0,
+                "itemCode": "A-005407",
+                "itemName": "LENO SIDEFRAME DULLY ZINC PLATING",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 1,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 3,
+                "lineNum": 1,
+                "itemCode": "A-005408",
+                "itemName": "LENO SIDEFRAME DULLY ZINC PLATING",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 1,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "docEntry": 4,
+        "docNum": 4,
+        "docDate": "1/2/2023",
+        "fromWhs": "RAP_Str",
+        "toWhs": "SbAsly",
+        "cardCode": "V00651",
+        "cardName": "SATISH INDUSTRIES",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 4,
+                "lineNum": 0,
+                "itemCode": "A-001726",
+                "itemName": "PRESS ROLL METAL PLATE (R.H) DULLY PLATED",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 12,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 4,
+                "lineNum": 1,
+                "itemCode": "A-003055",
+                "itemName": "HEX NUT  M 8 (H.T.).",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 120,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 2,
+                "docEntry": 4,
+                "lineNum": 2,
+                "itemCode": "A-003106",
+                "itemName": "SOCKET HEAD SET SCREW M 6 X 6 (HT)",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 24,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "docEntry": 5,
+        "docNum": 5,
+        "docDate": "1/2/2023",
+        "fromWhs": "SubStore",
+        "toWhs": "H_BAY1",
+        "cardCode": "V00579",
+        "cardName": "PATEL CORPORATION",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 5,
+                "lineNum": 0,
+                "itemCode": "A-008559",
+                "itemName": "SPINDLE ASSLY HARDCHROME",
+                "fromWhs": "SubStore",
+                "toWhs": "H_BAY1",
+                "qty": 1800,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 5,
+                "lineNum": 1,
+                "itemCode": "A-008559",
+                "itemName": "SPINDLE ASSLY HARDCHROME",
+                "fromWhs": "SubStore",
+                "toWhs": "H_BAY1",
+                "qty": 1800,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "docEntry": 6,
+        "docNum": 6,
+        "docDate": "1/2/2023",
+        "fromWhs": "RAP_Str",
+        "toWhs": "SbAsly",
+        "cardCode": "V00058",
+        "cardName": "NAVSHAKTI CORPORATION",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 6,
+                "lineNum": 0,
+                "itemCode": "A-014351",
+                "itemName": "FENDER STAY BLOCK (SMALL) 16 MM THICK",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 14,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 6,
+                "lineNum": 1,
+                "itemCode": "A-014352",
+                "itemName": "FENDER STAY BLOCK (BIG) 16 MM THICK",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 14,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "docEntry": 7,
+        "docNum": 7,
+        "docDate": "1/2/2023",
+        "fromWhs": "RAP_Str",
+        "toWhs": "SbAsly",
+        "cardCode": "V00433",
+        "cardName": "GAYATRI PAINTS",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 7,
+                "lineNum": 0,
+                "itemCode": "A-005407",
+                "itemName": "LENO SIDEFRAME DULLY ZINC PLATING",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 1,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 7,
+                "lineNum": 1,
+                "itemCode": "A-005408",
+                "itemName": "LENO SIDEFRAME DULLY ZINC PLATING",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 1,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "docEntry": 8,
+        "docNum": 8,
+        "docDate": "1/2/2023",
+        "fromWhs": "RAP_Str",
+        "toWhs": "SbAsly",
+        "cardCode": "V00651",
+        "cardName": "SATISH INDUSTRIES",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 8,
+                "lineNum": 0,
+                "itemCode": "A-001726",
+                "itemName": "PRESS ROLL METAL PLATE (R.H) DULLY PLATED",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 12,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 8,
+                "lineNum": 1,
+                "itemCode": "A-003055",
+                "itemName": "HEX NUT  M 8 (H.T.).",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 120,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 2,
+                "docEntry": 8,
+                "lineNum": 2,
+                "itemCode": "A-003106",
+                "itemName": "SOCKET HEAD SET SCREW M 6 X 6 (HT)",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 24,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "docEntry": 9,
+        "docNum": 9,
+        "docDate": "1/2/2023",
+        "fromWhs": "RAP_Str",
+        "toWhs": "SbAsly",
+        "cardCode": "V00651",
+        "cardName": "SATISH INDUSTRIES",
+        "itrDet": [
+            {
+                "id": 0,
+                "docEntry": 9,
+                "lineNum": 0,
+                "itemCode": "A-001726",
+                "itemName": "PRESS ROLL METAL PLATE (R.H) DULLY PLATED",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 12,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 1,
+                "docEntry": 9,
+                "lineNum": 1,
+                "itemCode": "A-003055",
+                "itemName": "HEX NUT  M 8 (H.T.).",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 120,
+                "uoM": "Manual",
+                "locCode": 2
+            },
+            {
+                "id": 2,
+                "docEntry": 9,
+                "lineNum": 2,
+                "itemCode": "A-003106",
+                "itemName": "SOCKET HEAD SET SCREW M 6 X 6 (HT)",
+                "fromWhs": "RAP_Str",
+                "toWhs": "SbAsly",
+                "qty": 24,
+                "uoM": "Manual",
+                "locCode": 2
+            }
+        ]
+    }
+]
